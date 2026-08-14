@@ -7,3 +7,6 @@ This is a beginner-friendly example of the basic Git workflow.
 ### 1. Create a Git repository
 ```bash
 git init
+
+### 2. Simple function
+puthon function
